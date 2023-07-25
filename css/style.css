@@ -1,44 +1,4 @@
-﻿/*
-Template Name: Sohag Info
-Author: Riajul Islam Leon
-Author URI: https://riajulleon.com
-Description: Riajul Islam Leon
-Version: 2.0
-*/
-
-
-/*-----------------------------------------------------
-[Table of contents]
-	+ General
-		- Dark Body
-		- Preloader
-	+ Header
-		- Navigation
-	+ Main Section
-		+ miscellaneous
-			- Text Rotator
-		+ About
-			- Personal Informations
-			- Resume Panels
-			- Skills
-		- Portfolio
-		+ Blog
-			- Latest Posts
-			+ Blog Page 
-				- Posts
-				- Comments
-				- Comments Form
-		+ Contact
-			- Left Side
-			- Social Media Icons
-			- Right Side
-	- Responsive Design Styles
-  ---------------------------------------------------
-/* [ GENERAL ] */
-/*================================================== */
-
-
-body,
+﻿body,
 html {
   font-size: 100%;
   padding: 0;
@@ -2045,7 +2005,7 @@ body.blog {
 body.blog .container-fluid.page-title {
   background-repeat: no-repeat;
   background-position: center top;
-  background-image: url(../img/blog/banner.jpg);
+  background-image: url(../img/logo/favicon.png);
   padding: 0;
   margin-bottom: 60px;
 }
